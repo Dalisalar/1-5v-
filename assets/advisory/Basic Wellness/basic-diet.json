@@ -1,0 +1,43 @@
+{
+    "code": "basic-diet",
+    "name": "Basic Diet",
+    "description": null,
+    "entries": [{
+            "trait": {
+                "code": "DietLowFat2Use",
+                "name": "Low-fat Diet Effectiveness",
+                "description": "<p>General recommendation is to limit fat intake to 35% of total calories and to control saturated fat intake. A low-fat diet restricts fat intake to 20%, while increases protein and complex carbohydrate intake. Monitoring saturated fats is particularly important: at least 12% of daily calories should come from poly- and monounsaturated fats. The other 80% of calories in the diet come from carbohydrates and protein with general recommendations to consume about 55-60% of carbs and 20-25% of proteins. Low fat high protein diet is based on boosting protein intake to 40%, while decreasing carbohydrate intake to 40%. Numerous large-scale studies on weight loss found that people with variations in genes associated with sensitivity to fat (such as FTO, PPARG, APOA2, LIPC) are more responsive to low fat diets if their goal is weight loss.</p>",
+                "connotation": "good"
+            },
+            "percentile": 10.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>There is no increased effectiveness of low-fat diet above normal for your weight loss and healthy weight maintenance.</li>\r\n\t<li>However everyone benefits from monitoring fats in the diet, and it is much more important to consume fewer trans- and saturated fats, and more of polyunsaturated and monounsaturated fats contained in fish, olive oils, avocados and nuts.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs2070895",
+                "rs1800588",
+                "rs1440581",
+                "rs2287019"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "DietLowCarb2Use",
+                "name": "Low-carb Diet Effectiveness",
+                "description": "<p>Carbohydrates are the main fuel source, and they provide vitamins, minerals, antioxidants and fiber in the diet. While your body uses carbohydrates as its main fuel source, there are substantial health benefits to limiting your carbohydrate intake. There are two major types of carbohydrates, simple (bad) and complex (good). Simple carbohydrates include sugary foods, pasta, bread, and white rice. Complex carbohydrates are whole grains, and legumes, including brown rice, and whole wheat breads. It is beneficial to eat more complex carbohydrates. People with genetic variations in several genes associated with obesity, insulin sensitivity, and high levels of bad cholesterol (LDL) are more sensitive to carbohydrates in their diet. These people may benefit more from low carbohydrate diet that reduces the amount of calories from carbohydrates and consuming nearly equal proportions of fats and proteins. A low-carb diet restricts the type and amount of carbohydrates you eat.&nbsp;In general, a low-carb diet focuses on proteins, including meat, poultry, fish and eggs, and some nonstarchy vegetables. A low-carb diet generally excludes or limits most grains, legumes, fruits, breads, sweets, pastas and starchy vegetables, and sometimes nuts and seeds.</p>",
+                "connotation": "good"
+            },
+            "percentile": 40.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>While you do&nbsp;not seem to be predisposed to carb-sensitivity, try to eat more complex carbohydrates such as&nbsp;whole grains, and legumes, including brown rice, and whole wheat breads.</li>\r\n\t<li>Low-carb diets may help prevent or improve serious health conditions, such as metabolic syndrome, diabetes, high blood pressure and cardiovascular disease. (Mayo Clinic)</li>\r\n\t<li>A daily limit of 60 to 130 grams of carbohydrates is typical with a low-carb diet. These amounts of carbohydrates provide 240 to 520 calories.</li>\r\n\t<li>Choosing a low-carb diet&nbsp;may improve blood cholesterol or blood sugar levels, at least temporarily (Mayo Clinic)</li>\r\n\t<li>Risks: If you suddenly and drastically cut carbs, you may experience a variety of temporary health effects, including headache, bad breath, weakness, fatigue, constipation, or diarrhea.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs1042713",
+                "rs7957619",
+                "rs1478290",
+                "rs2306179",
+                "rs3764261"
+            ],
+            "snps_inhibiting": []
+        }
+    ]
+}

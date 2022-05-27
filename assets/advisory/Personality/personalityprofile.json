@@ -1,0 +1,147 @@
+{
+    "code": "personalityprofile",
+    "name": "Personality Profile",
+    "description": "<p>Personality is generally the least thing we associate with genetics, yet we all have noticed how siblings born in the same family environment have very different personalities. This is due to the fact that many aspects of early neural development are influenced by your genetics. There have been hundreds of scientific studies looking at how your genetic makeup may influence personality traits such as whether you have a Warrior or Worrier personality, your potential for impulsivity, whether you are more prone to addiction, or if you are a morning or evening person among others.</p>",
+    "entries": [{
+            "trait": {
+                "code": "PersonalityAddictive",
+                "name": "Addictive Personality",
+                "description": "<p>This trait measures whether you have genetic predispositions that would increase your likelihood of having an addictive personality. Addictions can come in a wide range of forms, including food, drugs, alcohol, gambling, pornography, or even fitness/exercise. Addictive personality refers to a particular set of personality traits that make an individual predisposed to developing addictions. Addictions can come in a wide range of forms, including food, drugs, alcohol, gambling, pornography, or even fitness/exercise. In addition to gene DRD2 that is implicated in reduced pleasure response, several other genetic variants have been found to be associated with addictive behaviors such as excessive alcohol consumption and smoking.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 10.0,
+            "assessment": 0,
+            "assessment_recommendation": "<p>You do not seem to have known genetic predispositions for addictive personality.</p>",
+            "snps_contributing": [
+                "rs10891549",
+                "rs13160562",
+                "rs1000579",
+                "rs6279",
+                "rs6701037",
+                "rs1799971",
+                "rs165774",
+                "rs4142041",
+                "rs1789891",
+                "rs4770403"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "PersonalityAnger",
+                "name": "Anger Response",
+                "description": "<p>Individuals with higher anger response are more irritable and likely to get angry as a result of unsettling external stimuli. This is partially a result of the sensitivity of the central nervous system and the amygdala to external shocks and can be influenced by your genetics.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 5.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You seem to have a typical predisposition likelihood for anger response.</li>\r\n\t<li>This doesn&#39;t mean you don&#39;t ever get angry, but it may mean that your anger outbursts may not be caused by known genetic variations.</li>\r\n\t<li>While anger is a natural and legitimate emotion, it is important to manage it to avoid hurting others or one&#39;s own sense of peace.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs6954895",
+                "rs670292"
+            ],
+            "snps_inhibiting": [
+                "rs6834498",
+                "rs2844775"
+            ]
+        },
+        {
+            "trait": {
+                "code": "PersonalityOptimist",
+                "name": "Optimism",
+                "description": "<p>Optimism is the ability to see the glass half full and to look at the present and the future through cheerful eyes. It is an important asset for creating energy to move forward in life and is a great coping mechanism for uncertain and tumultuous times like ours. Optimism has been shown to be partly influenced by your genetics. Recent studies have shown that there are genetic variations that contribute to optimism, self-esteem and agency, which can help individuals cope well with stress and avoid depression.</p>",
+                "connotation": "good"
+            },
+            "percentile": 55.0,
+            "assessment": 1,
+            "assessment_recommendation": "<p>You seem to have a slightly advantaged predisposition for this trait. This indicates that you have some genetic variations that are shared by many individuals assessed to be naturally optimistic. Optimism heavily depends on your perspectives and decisions of how to see the world. People who are optimist, generally tend to give up less rapidly, and interpret setbacks as temporary, local, and changeable. Try to look at the glass half-full, it may allow you to withstand substantial stress and tolerate uncertainty better, in these increasingly stressful times.</p>",
+            "snps_contributing": [
+                "rs4958581",
+                "rs10431058",
+                "rs7178909"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "MorningPerson",
+                "name": "Morning Person",
+                "description": "<p>Chronotype (also referred to as morningness-eveningness or diurnal preference) is the tendency to be an early lark (alert and preferring to be active early in the day) or a late owl (alert and preferring to be active later in the day). Chronotype is determined by circadian rhythms that are a nearly universal feature of living organisms and affect almost every biological process. Numerous studies suggest that genetics significantly contributes to chronotype that has heritability of about 40-60%. This may explain why those of us who are early-to-bed, early-to-rise types, or late-to-bed, late-to-rise types, find it so hard to change our behavior. Owls and larks are the two extremes with most individuals having some flexibility in the timing of their sleep period. Those in the middle are called hummingbirds, and may be ready for action both early and late. Some hummingbirds are more larkish, and others, more owlish. A recent study of nearly 90,000 people found genetic variations associated with being a morning person. Around 10% of people are primarily larks. Whether you are a lark (a morning person) or an owl (an evening person) is influenced by your genetics. Knowing if you are a morning person and would be most productive during morning hours could help you organize your life such that your most creative tasks are scheduled in the morning.</p>",
+                "connotation": "good"
+            },
+            "percentile": 5.0,
+            "assessment": 0,
+            "assessment_recommendation": "<p>You do not seem to have a&nbsp;genetic predisposition likelihood&nbsp;for being a morning person. This may mean that you are either a night owl or just a hummingbird (someone who is evenly productive throughout the day). If you want to see which one applies to you most,&nbsp;consider taking the following <a href=\"https://www.surrey.ac.uk/features/sleep-quiz-are-you-owl-or-lark\" target=\"_blank\">quiz</a> (opens in a new window).&nbsp;</p>",
+            "snps_contributing": [
+                "rs12927162"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "PersonalityImpulsivity",
+                "name": "Impulsivity",
+                "description": "<p>Impulsivity can be defined as rapid, unplanned behavior with little forethought of the consequences. Some impulsivity contributes to optimal decision-making and it is advantageous in certain situations. However, high levels of impulsivity are linked to risky behaviors that may result in adverse consequences. Impulsivity is related to novelty and excitement seeking. The behavioral consequences of impulsivity are more common among adolescents and young adults, who are generally more likely to be impulsive and seeking excitement. In addition, male subjects tend to score higher on measures of impulsivity and excitement-seeking compared with female subjects, a pattern observed in countries around the world. Like other personality traits, impulsivity is a multidimensional construct: it is generally assessed by self-report questionnaires.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 40.0,
+            "assessment": 0,
+            "assessment_recommendation": "<p>You do not seem to have genetic predispositions that would increase your impulsivity personality. Your genetics-based impulsivity tendencies fall within the average range of the population. This may mean that you are more level-headed in making your daily decisions.</p>",
+            "snps_contributing": [
+                "rs17641078",
+                "rs1018040",
+                "rs8041675"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "PersonalityWarrior",
+                "name": "Warrior Personality",
+                "description": "<p>Warrior have better stress resiliency, and higher pain threshold. In some circumstances, the warrior personality is associated with aggressiveness and violence when combined with trauma, drugs, or alcoholism. On a biochemical level, worrier personality is associated with two enzymes, MAOA and COMT that determine the levels of several neurotransmitters such as dopamine and serotonin. Neurotransmitters play a pivotal role in our reactions, moods and emotions. The MAOA has even been nicknamed the warrior gene and drew international attention a decade ago when it was reported that a common genetic variation to occur more common in Maori &mdash; the indigenous Polynesians of New Zealand &mdash; than in whites. A recent study demonstrated that Finnish criminals convicted of several violent crimes possessed this variant more frequently than nonviolent controls. Interestingly, a smaller study reported that the warrior genes often linked with aggression and alpha-male behavior in men might actually be the happiness genes for women.</p>",
+                "connotation": "good"
+            },
+            "percentile": 10.0,
+            "assessment": 0,
+            "assessment_recommendation": "<p>You do not seem to have genetic predispositions that would increase your warrior personality. Your warrior tendencies fall within the average range of the population.</p>",
+            "snps_contributing": [
+                "rs909525"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "PersonalityWorrier",
+                "name": "Worrier Personality",
+                "description": "<p>Worriers are more exploratory, have lower pain threshold and enhanced vulnerability to stress. They often give up when the going gets tough. Yet they may be more efficient processing information under most conditions. On a biochemical level, worrier personality is associated with lower COMT enzyme activity.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 70.0,
+            "assessment": 2,
+            "assessment_recommendation": "<p>You seem to have a higher worrying personality. This means that external challenges may create anxiety and potentially drive you to resign to the challenges more easily. Knowing this to be a potential predisposition, try not to give up easily when challenges arise and make every effort to overcome anxiety when circumstances get tough.</p>",
+            "snps_contributing": [
+                "rs4680"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "PersonalityNoveltySeeking",
+                "name": "Exploratory Behavior",
+                "description": "<p>Exploratory behavior, or Novelty Seeking, is one of 4 temperaments according to the Cloninger&rsquo;s model of personality. The other three are Harm Avoidance, Reward Dependence, and Persistence. Exploratory behavior reflects the tendency to respond strongly to novelty and cues for reward. Explorers have the tendency to crave stimulation and thrills; they tend to be attracted by large crowds and bright colors. Interestingly, exploratory behavior is influenced by specific neurotransmitter pathways in the brain and it has a heritable genetic component.</p>",
+                "connotation": "good"
+            },
+            "percentile": 65.0,
+            "assessment": 1,
+            "assessment_recommendation": "<p>You seem to have a slightly higher predisposition to exploratory behavior than the average population. This may mean that you seek out more diversity and novelty in your experiences. On the positive side, this may result in a desire to grow and experience. On the negative side, you may feel uninspired when new experiences do not abound.</p>",
+            "snps_contributing": [
+                "rs10176705",
+                "rs4680",
+                "rs7600563",
+                "rs1533665",
+                "rs3120665"
+            ],
+            "snps_inhibiting": []
+        }
+    ]
+}

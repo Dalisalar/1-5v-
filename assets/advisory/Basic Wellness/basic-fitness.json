@@ -1,0 +1,42 @@
+{
+    "code": "basic-fitness",
+    "name": "Basic Fitness",
+    "description": null,
+    "entries": [{
+            "trait": {
+                "code": "FitnessEndurance",
+                "name": "Endurance",
+                "description": "<p>Your muscle endurance measures your ability to repeat an activity for an extended period of time without getting tired. If your muscle structure favors endurance you have the potential to thrive in exercises that leverage your endurance. Cross-country skiing and push-ups are examples of endurance exercises.The intrinsic capacity to perform endurance exercise is influenced by a number of factors. First of all, endurance depends on the proportion of slow-twitch fibers in the skeletal muscle. Studies have identified a number of genetic variants associated with higher proportion of slow-twitch fibers, and higher oxygen supplies to muscle tissues. Slow twitch fibers are also called red fibers because they contain more blood-carrying myoglobin. The red muscles provide their own source of energy using oxidative phosphorylation to obtain ATP. Therefore, slow-twitch fibers can sustain force for an extended period of time.</p>",
+                "connotation": "good"
+            },
+            "percentile": 15.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>Check out your power trait predisposition to explore if you may be more of a power athlete.&nbsp;</li>\r\n\t<li>While you may not have a genetic advantage for endurance, you can still include aerobic exercises in your daily routine, including&nbsp;stair climbing or stair master, elliptical trainer, indoor rower, stationary bicycles, treadmills, fast walking, cycling, running and skiing.&nbsp;</li>\r\n\t<li>Start with a run/walk plan that gradually and safely allows you to build up to an hour of steady aerobic running.</li>\r\n\t<li>Consult with your fitness trainer on how to leverage this advantage to improve your fitness routines. As always, keep in mind that any substantial changes to your fitness routines may affect other parts of your well-being and should be done with proper oversight. Make sure to check your injury reports.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs12594956",
+                "rs1815739",
+                "rs4253765",
+                "rs8192678",
+                "rs11549465"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "FitnessPower",
+                "name": "Power",
+                "description": "<p>Your muscle power measures the maximum amount of force you can exert in a limited period of time. When your muscle structure favors power exercises, you have the potential to exert substantial force in a short period of time. Olympic weight lifting is an example of a power exercise. The heritability of power/strength has been estimated to be up to 80% depending on the specific muscle type (isometric knee strength, handgrip strength, elbow flexion). Fast-twitch (Type II) fibers generate a relatively high amount of force in a short period of time. They are characterized by high force/power/speed, like the take-off motion in a sprint, but the fast-twitch muscle fibers experience fatigue faster. &ldquo;Power&rdquo; fibers have lower mitochondrial density, lower myoglobin levels but higher levels of stored glycogen as they primarily rely on glycosis (anaerobic respiration) to fuel muscle contractions. The glycolysis process is very quick yet it is also quite inefficient at producing ATP. Another drawback of glycolysis is that it produces lactic acid as a byproduct, which leads to muscle fatigue. This explains why fast twitching muscles tire out quicker. To evaluate your power profile predisposition likelihood Lifenome uses the most reliable genetic biomarkers that have been found to be associated with power/strength-related sports.</p>",
+                "connotation": "good"
+            },
+            "percentile": 15.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>Check your endurance or elite endurance predispositions&nbsp;to see if you mgiht be more of an endurance athlete.</li>\r\n\t<li>If you want to increase your power you may want to consider sports and exercises such as aerobics,high impact step, basketball, Martial Arts: judo, karate, kickboxing, downhill skiing and Tennis.</li>\r\n\t<li>Under the supervision of a trainer, you may build on this advantage further by doing&nbsp;ballistic&nbsp;training where yourlift, accelerate, and then release&nbsp;weighst, rather than slowly lowering it as in other forms of weight&nbsp;training.&nbsp;</li>\r\n\t<li>As always, only change your fitness exercises under the supervision of a professional trainer.&nbsp;</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs1815739",
+                "rs4343",
+                "rs4402960"
+            ],
+            "snps_inhibiting": []
+        }
+    ]
+}

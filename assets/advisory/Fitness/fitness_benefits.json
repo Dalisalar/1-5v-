@@ -1,0 +1,107 @@
+{
+    "code": "fitness_benefits",
+    "name": "Fitness Benefits",
+    "description": "<p>Have you asked yourself the question of why some people respond to an aerobic workout routine by becoming incredibly fit, whereas others who exercise just as hard for months end up no fitter than the beginning? How much each of us benefits from exercise depends strongly on genetic factors. In this section you can gain insights on what the actual benefits of exercise can be on your unique biology.</p>",
+    "entries": [{
+            "trait": {
+                "code": "FitnessMaximalOxygenResponse",
+                "name": "Exercise Benefits for Maximal Oxygen Uptake Response",
+                "description": "<p>VO2&nbsp;max&nbsp;(also&nbsp;maximal oxygen consumption,&nbsp;maximal oxygen uptake, peak&nbsp;oxygen uptake&nbsp;or&nbsp;maximal&nbsp;aerobic capacity) is the&nbsp;maximum&nbsp;rate of&nbsp;oxygen consumption&nbsp;as measured during incremental exercise, most typically on a motorized treadmill. One of the exercise benefits is improvement in maximal oxygen uptake response. When you exercise your muscles are working harder than normal and, as a result, they require more energy than normal. Since the&nbsp;ATP&nbsp;energy used by your muscles is generated with the aid of oxygen, it follows that an increase in exercise intensity will result in an increase in muscular oxygen demands. Therefore, increased exercise intensity ultimately corresponds to an increased&nbsp;VO2. This is the reason that your breathing gets progressively faster and deeper as your exercise intensity increases, your body is trying to provide more oxygen to your working muscles so that they can generate enough&nbsp;ATP&nbsp;energy to keep you moving.&nbsp;People with differences in genetics, gender, age and fitness state respond differently to the same exercise training program. At least 50% of these differences have been found to be due to genetic variations.&nbsp;</p>",
+                "connotation": "good"
+            },
+            "percentile": 15.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>Improvements to your VO2 Max due to exercise are likely to be within the average range of the population. &nbsp;</li>\r\n\t<li>To estimate&nbsp;your current VO2 Max as a baseline and measure its improvements as you exercise, <a href=\"http://www.shapesense.com/fitness-exercise/calculators/vo2max-calculator.shtml\" target=\"_blank\"><span style=\"color:#add8e6\"><strong>click here to use any of the four following calculators (external link).&nbsp;</strong></span></a></li>\r\n\t<li>To improve your VO2 Max, you can engage in consistent aerobic conditioning. &nbsp;</li>\r\n\t<li>For more serious&nbsp;athletes and under the supervision of a trainer you can also choose a faster way to improve your VO2 max which is to run intervals at the fastest speed you can maintain for about five minutes, followed by 10 minutes of rest, starting with once and increasing it to four times in one hour.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs12115454",
+                "rs2030398",
+                "rs10500872",
+                "rs4973706",
+                "rs4952535",
+                "rs738353"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "FitnessBenefitsCholesterol",
+                "name": "Exercise Benefits for Lowering Cholesterol",
+                "description": "<p>Research has shown that exercise stimulates enzymes that help move bad cholesterol from the blood to the liver, allowing it to be excreted as bile. It is also stipulated that exercise increases the size of the protein particles that carry cholesterol through the blood, reducing the possibility that smaller particles may clog arteries. People with some genetic variants will have good results at increasing levels of good cholesterol by exercise alone, while carriers of other genetic variants are less likely to succeed to lower bad cholesterol levels by exercise alone.</p>",
+                "connotation": "good"
+            },
+            "percentile": 40.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>While you may not have genetic predispositions for cholestrol reduction benefits through exercise, you can still achieve better cardiovascular health by engaging in regular exercise and keepiing a low-cholstrol diet. Check your NutriNome report to see if you have predispositions that affect your fat consumption and fat processing.</li>\r\n\t<li>The AHA suggests at least 150 minutes of moderate exercise or 75 minutes of vigorous exercise per week. If you mix and match the two, you can count every minute of vigorous activity as two minutes of moderate activity.&nbsp;</li>\r\n\t<li>Moderate exercises (where you can easily maintain a conversation) include: Walking briskly (3 miles per hour or faster), Bicycling (10 miles per hour or slower), and gardening.&nbsp;</li>\r\n\t<li>Vigorous exercises (where you breathe heavily) include Racewalking, running, swimming laps, playing tennis, aerobic dancing, professional biking and hiking uphill.</li>\r\n\t<li>Consult with a fitness professional befiore engaging in strenous exercise.&nbsp;</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>",
+            "snps_contributing": [
+                "rs1800588"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "FitnessHeartBitReductionTraining",
+                "name": "Heartbeat Reduction Difficulty",
+                "description": "<p>Heart rate response is commonly used as a measurable marker to guide exercise intensity and to monitor progress with the expectation that the heart rate at a given intensity and load will decrease substantially with regular exercise. Exercise training improves cardiac function and several cardiovascular risk factors, including ability to perform physical tasks at a given workload with a lower heart rate. However, the cardiovascular benefits of regular physical activity are not equally distributed among individuals, as some exhibit marked improvements while others may show little or no changes. If you have higher predisposition to reduced heart response to exercise, the expected decrease in exercise heart rate may not occur. You or your fitness specialist may (falsely) assume that the exercise prescription was insufficient and may try to increase the exercise training load. Genetic variation explains large proportion of this difference. It is important to know this to make sure that the exercise does not cause undue heart strain.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 35.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You should see typical improvements in your heart beat as you continue to exercise. Try to exercise to lower&nbsp;your heart beat rate below your maximum heart beat rate.&nbsp;</li>\r\n\t<li>The maximum heartbeat rate can be calculated by subtracting your age from 220. For example, if you&#39;re 45 years old, subtract 45 from 220 to get a maximumheart rate&nbsp;of 175. This is the maximum number of times your&nbsp;heart&nbsp;should beat per minute during&nbsp;exercise.&nbsp;</li>\r\n\t<li>The goal is however for your heartbeat rate to be between&nbsp;50 to 70 percent of your maximum heart rate for moderate exercise and&nbsp;70 to 85 percent of your maximum heart rate for vigorous exercise.&nbsp;</li>\r\n\t<li>To calcuate your optimal/target heart rate during exercise <span style=\"color:#e6e6fa\"><strong><a href=\"http://www.active.com/fitness/calculators/heartrate\" target=\"_blank\">use this calculator.</a>&nbsp;</strong></span><span style=\"color:#000000\">(Opens new window)</span></li>\r\n\t<li>Always consult with your fitness trainer on any strenuous exercise.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs2253206",
+                "rs10932460",
+                "rs1560488",
+                "rs4675639",
+                "rs857838",
+                "rs2360969",
+                "rs2057368",
+                "rs6432018"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "FitnessHeartStrokeVolumeTraining",
+                "name": "Lower Exercise Benefits for Heart Pump Function",
+                "description": "<p>Cardiac output is the volume of blood being pumped by the heart in a minute. It is equal to the heart rate multiplied by the stroke volume. So if there are 70 beats per minute, and&nbsp;<strong>70 </strong>ml blood is ejected with each beat of the heart, the cardiac output is&nbsp;4900 ml/ minute.</p>\r\n\r\n<p>A large family study reported that a 20 week endurance training program resulted in a mean increase of 3.9 ml/beat in stroke volume measured during steady-state exercise at 50 W (SV50) . Interestingly, the individual training responses ranged from a decrease of 41 ml/beat to an increase of 45 ml/beat. Carriers of a genetic variant in the kinesin heavy chain (KIF5B) gene had lower SV50 training response than carries of the more common allele.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 35.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>Your heart pump volume and effciency should increase as expected as you exercise more.</li>\r\n\t<li>Prolonged aerobic exercise training may also increase stroke volume, which frequently results in a lower resting heart rate.&nbsp;</li>\r\n\t<li>Exercise can help strengthen your heart and improve how well it pumps blood to the rest of the body. All it takes is 30 minutes a day of activity, even if that activity is walking.&nbsp;</li>\r\n\t<li>Exercises best for your heart health include brisk walking, running, interval training, cycling and swimming.&nbsp;</li>\r\n\t<li>Talk to your physician before engaging in strenous exercise or changing routines&nbsp;</li>\r\n</ul>",
+            "snps_contributing": [],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "FitnessBenefitsHypertension",
+                "name": "Exercise Benefits for Blood Pressure",
+                "description": "<p>For most people, moderate-intensity exercise has been shown to lower blood pressure. In fact, aerobic exercise training is generally recommended as lifestyle therapy to prevent, treat and control hypertension. General guidelines call for at least half an hour of low intensity aerobic exercises, which helps to decrease blood pressure. There is large variability in the individual response to the anti-hypertensive effect of exercise, and much of it is explained by genetic variations. Individuals with predisposition to increased hypertension response, get to lower their blood pressure faster than the average population. For such individuals, the benefits of this 30 minute exercise are more noticeable than for the average population.&nbsp;</p>",
+                "connotation": "good"
+            },
+            "percentile": 25.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You will probably achieve moderate improvements in your blood pressure thorugh moderate exercise.&nbsp;</li>\r\n\t<li>Regular exercise of at least 30 minutes per day, together with a healthy diet, will most likely result in lower blood pressure over time.&nbsp;</li>\r\n\t<li>Exercises that are useful for lowering your blood pressure include:&nbsp;Brisk walking , Cycling, Swimming, Dancing, Mowing the lawn, Tennis and Jogging.</li>\r\n\t<li>Exercises you should avoid for blood pressure reduction: Weight lifting and sprinting.&nbsp;</li>\r\n\t<li>If you need to lower your blood pressure through exercise, you may want to increase its intensity under the supervision of your physician or trainer.&nbsp;</li>\r\n\t<li>Please note that physical activity will temporarily cause your blood pressure to rise before it lowers your blood pressure over time.&nbsp;So if you have high blood pressure, it is important to increase fitness activities gradually, and not to put too much strain on your heart.</li>\r\n\t<li>&nbsp;If your blood pressure is very high, you should not start any new activity without consulting your doctor.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs5370"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "FitnessBenefits",
+                "name": "Overall Fitness Benefits",
+                "description": "<p>The health benefits of regular exercise and physical activity are hard to ignore. Everyone benefits from exercise, regardless of age, sex or physical ability. Exercise can help prevent excess weight gain or help maintain weight loss. Regular exercise helps prevent or manage a wide range of health problems and concerns, including stroke, metabolic syndrome, type 2 diabetes, depression, a number of types of cancer, arthritis and falls. Exercise delivers oxygen and nutrients to your tissues and helps your cardiovascular system work more efficiently. And when your heart and lung health improve, you have more energy to tackle daily chores.&nbsp;</p>\r\n\r\n<p>Some people show quick and strong benefits, while others need more exercise and changes to their diets too. For people with some genetic variants, active life-style was shown to produce quick results to lower levels of cholesterol, triglycerides, and blood pressure.</p>",
+                "connotation": "good"
+            },
+            "percentile": 15.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You may not see quick benefits from moderate exercise on your health, in particular if you have issues with cholesterol, triglycerides, and hypertension.</li>\r\n\t<li>You may need to boost your exercise frequency and perhaps intensity in combination to a healthy diet to see a significant impact on your cholesterol, triglycerides, and blood pressure levels. &nbsp;</li>\r\n\t<li>Regular exercise of at least 45&nbsp;minutes per day, together with a healthy diet, will most likely result in improved vitals over time.&nbsp;</li>\r\n\t<li>Exercises that are useful for your overall health&nbsp;include:&nbsp;Brisk walking , Cycling, Swimming, Dancing, Mowing the lawn, Tennis and Jogging.</li>\r\n\t<li>Always consult with your physician before changing the intensity and frequency of your workouts.&nbsp;</li>\r\n\t<br />\r\n</ul>",
+            "snps_contributing": [
+                "rs1800588",
+                "rs5370"
+            ],
+            "snps_inhibiting": []
+        }
+    ]
+}

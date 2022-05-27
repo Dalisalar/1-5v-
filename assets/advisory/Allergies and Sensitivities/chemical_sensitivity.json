@@ -1,0 +1,60 @@
+{
+    "code": "chemical_sensitivity",
+    "name": "Sensitivity to Chemicals",
+    "description": "<p>Chemical sensitivity can be triggered by a number of factors: toxic waste, ventilation systems, industrial emissions, mold, bacteria, pesticides, paints, plastics, dentures, hearing aids--even jewelry! Over several years of evolution, our bodies have developed a sophisticated system of enzyme pathways to eliminate such foreign particles. Genetic variants in genes that code for those key enzymes may interfere with the detoxification process. In this section, explore what your genetic predispositions are for sensitivity to mercury, benzene, and PCBs; &nbsp;in addition, get actionable insights on how to deal with these sensitivities.</p>\r\n\r\n<p>&nbsp;</p>",
+    "entries": [{
+            "trait": {
+                "code": "Sensitivity2Mercury",
+                "name": "Sensitivity to Mercury",
+                "description": "<p>Mercury is a heavy metal found naturally in the environment. It is released into the air, water, and soil by factories or coal-burning power plants. In water, mercury changes its form and becomes methylmercury. This form is &nbsp;absorbed by fish and we indirectly absorb mercury when we ingest these fish. When high levels of mercury accumulate in the body, it can often cause harmful results. Young children and fetuses are particularly sensitive to mercury as their nervous systems are still developing. It can be extremely toxic in gastrointestinal, renal, and nervous systems. While mercury does eventually leave the body through the urine, feces, or even in breast milk; the rate of absorption in human blood is dependant on different genetic variations.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 10.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You do not have an elevated predisposition for bioaccumulation of mercury.</li>\r\n\t<li>Follow general guidelines for eating a healthy, balanced diet. Limit your consumption of fish and shellfish to 12 oz or 340 g (two average meals) a week.</li>\r\n\t<li>FDA advises young children, women who are (or may become) pregnant, and nursing mothers to avoid fish high in mercury.</li>\r\n\t<li>Please consult<a href=\"https://www.nrdc.org/stories/smart-seafood-buying-guide\"> &nbsp;the Smart Seafood Buying Guide</a> for more information.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs11231299",
+                "rs1695",
+                "rs405729",
+                "rs395485"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "Sensitivity2Benzene",
+                "name": "Sensitivity to Benzene",
+                "description": "<p>Benzene is an industrial chemical and a ubiquitous pollutant of air. It is largely derived from manufacturing and motor vehicle exhaust. Benzene may irritate the nose and throat, cause coughing, wheezing, headache, dizziness, and skin allergies. It is a documented carcinogen and it can target different organs, including liver, kidneys, lungs, heart, and the brain. Many products such as adhesives, laundry detergents, nail polishes, synthetic fabrics, and dyes contain levels of benzene. About 50% of the benzene exposure in the US results from smoking tobacco or from second-hand smoke. The metabolism of benzene has been extensively investigated and the cytochrome P450 enzyme (CYP2E1) plays a major role. Genetic variations in this enzyme as well as in the EPHX1 and NQO1 genes increase susceptibility to benzene toxicity.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 60.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You do not have genetic predisposition associated with increased risk of sensitivity to benzene, or higher risk of benzene accumulation.</li>\r\n\t<li>It is still imperative to reduce your exposure to benzene by ensuring adequate ventilation in your home, avoiding second hand smoke, using benzene free laundry detergents.</li>\r\n\t<li>If you live in the city, keep plenty of plants in the home: they are known to cleanse the air. Consult this website for more information: <a href=\"https://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air\">&nbsp;Hear about common houseplants for cleaner indoor air</a>.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs2234922",
+                "rs2917666",
+                "rs1051740"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "Sensitivity2PCB",
+                "name": "Sensitivity to PCB",
+                "description": "<p>Polychlorinated biphenyls (PCBs) are a group of man-made chemicals. They are oily liquids or solids, clear to yellow in color, with no smell or taste. They have been long recognized as environmental pollutants that accumulate in humans with adverse health effects. PCBs have been linked to various cancers, problems with immune system, &nbsp;thyroid function, low birth weight, slowed growth, and development in children. Manufacturing of PCBs was halted in the 70s but they are still being released into the environment via hazardous waste sites, leaks or improper disposal. Since PCBs are found throughout the environment, it is likely that everyone has been exposed to them through food (fish and meats), water, and even old light fixtures. PCBs are easily absorbed by the body, and like other lipophilic compounds they have to be metabolized by the members of the cytochrome P450 system. People with lower activities of some cytochrome P450 enzymes may be under higher risk of PCB build-up due to their slower excretion rates from the body.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 40.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>Your genetics-based sensitivity to PCB is within a typical range.&nbsp;</li>\r\n\t<li>Follow general recommendations on the choice of fish and animal fats.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs2279345",
+                "rs7260329",
+                "rs7254579",
+                "rs8100458",
+                "rs4124633"
+            ],
+            "snps_inhibiting": []
+        }
+    ]
+}

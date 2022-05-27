@@ -1,0 +1,107 @@
+{
+    "code": "food_allergies",
+    "name": "Food Allergies",
+    "description": "<p>The reasons behind rise in food allergies are complex, and have to do with how the&nbsp;food processing has changed.&nbsp;Some people are more susceptible to food allergies and it is partly to do with genetics.&nbsp;The body&rsquo;s immune system keeps you healthy by fighting off infections and other dangers to good health. A food allergy reaction occurs when your immune system overreacts to a substance in a food, identifying it as a danger and triggering a protective response. Food allergy symptoms are most common in babies and children, but they can appear at any age. You can even develop an allergy to foods you have eaten for years with no problems. Remember that&nbsp;genetic predispositions do&nbsp;not always manifest in a specific allergy. Factors such as general health, immune system functioning, as well as other rare and yet unknown genetic and epigenetic mechanisms, have significant contributions too. On the other hand, knowing about your genetic predisposition will&nbsp;help&nbsp;you figure out unusual reactions and symptoms, and&nbsp;perhaps discuss with your physician on your next regular visit.</p>",
+    "entries": [{
+            "trait": {
+                "code": "FoodSensitivityRisk",
+                "name": "General Food Sensitivities",
+                "description": "<p>Over the past 20 years, food allergies have grown from a relatively uncommon condition to a major clinical and public health concern worldwide. As a result of its increasing prevalence, there has been an increase in potential fatality as well as enormous medical and economic impact. Up to 15 million Americans have food allergies, and up to 1 in every 13 children (under 18 years of age) in the U.S may be affected by a food allergy. That is roughly two in every classroom. Researchers estimate that genetic factors may contribute to up to 80% of food allergies. However, genetic predisposition does not always manifest in a specific allergy. Several other factors such as general health, immune system functioning, as well as other rare and yet unknown genetic and epigenetic mechanisms also have significant contributions too. Clinical food allergy is defined as immunoglobulin E (IgE)-mediated clinical reactivity to specific food proteins, and several genetic variations associated with food allergies have been identified. A recent large-scale genome-wide study identified several genetic variants associated with at least one common food allergens.The top 10 symptoms of food allergy, 30 minutes to 2 hours after ingesting a potential allergen include:</p>\r\n\r\n<ul>\r\n\t<li>Headache</li>\r\n\t<li>Lack of Attention/Focus</li>\r\n\t<li>Anxiety or Depression</li>\r\n\t<li>Bloating</li>\r\n\t<li>Gas</li>\r\n\t<li>Constipation</li>\r\n\t<li>Diarrhea</li>\r\n\t<li>Exhaustion</li>\r\n\t<li>Joint pain</li>\r\n\t<li>Skin Rash</li>\r\n</ul>",
+                "connotation": "risky"
+            },
+            "percentile": 5.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>While there are no indications of a genetic predisposition to food allergies, genetics is only part of the equation when it comes to allergies. Factors such as general health, immune system functioning, as well as other rare and yet unknown genetic and epigenetic mechanisms, have significant contributions too.&nbsp;</li>\r\n\t<li>Check your predisposition for more specific allergies to eggs, milk, lactose and gluten within this section.</li>\r\n\t<li>If you experience four or more of these symptoms (listed above) regularly after eating food, you may have a food allergy. Consult with your physician to assess whether tests are needed.</li>\r\n\t<li>If you suspect food allergies, you can modify your diet by eliminating certain foods (gluten-rich, lactose-rich, nuts, etc.) to explore whether symptoms subside.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs1318710",
+                "rs6942407"
+            ],
+            "snps_inhibiting": [
+                "rs11635085",
+                "rs2360969"
+            ]
+        },
+        {
+            "trait": {
+                "code": "AllergyPeanut",
+                "name": "Allergy to Peanuts",
+                "description": "<p>Peanut allergy is one of the most common type of food allergies. In the U.S., approximately three million people report allergies to peanuts and tree nuts. Peanut allergies may be triggered by even the slightest exposure and are often difficult to manage. This is because peanuts are a common ingredient in a variety of food products. Symptoms of peanut allergy can occur in varying degrees; from a slightly itchy mouth, a tingling sensation in or around the mouth or throat to nausea and runny or congested nose to less common anaphylaxis, which is potentially life-threatening reaction that impairs breathing and can send the body into shock. Based on recent studies, an estimated 25-40 % of people who have peanut allergy are also allergic to tree nuts. In addition, peanuts and tree nuts often come into contact with one another during manufacturing and serving processes. For these reasons, allergists usually tell their patients with peanut allergy to avoid tree nuts as well. Research by the National Institutes of Health shows that about 20% of children with a peanut allergy outgrow it. Researchers estimated that genetics may account for up to 80% of peanut allergies.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 90.0,
+            "assessment": 1,
+            "assessment_recommendation": "<ul>\r\n\t<li>You have a one or more genetic variants more frequently found in people who have peanut allergies.&nbsp;</li>\r\n\t<li>If you experience shortness of breath or wheezing, redness or swelling of your skin, milder symptoms such as Itching or tingling in or around the mouth and throat, or digestive problems, such as diarrhea, stomach cramps, or nausea, after consuming peanuts, talk to your phsycian.</li>\r\n\t<li>If you suspect you have an allergic reaction to peanuts (or other nuts), consult an allergist for a diagnosis and prescribed method of treatment. Diagnosing a peanut allergy can be complicated. Symptoms can vary from person to person, and a single individual may not always experience the same symptoms during every reaction. Your allergist will work with you to determine the best ways to manage your symptoms.</li>\r\n\t<li>People with impaired skin barrier function have a higher risk for allergies, including peanut allergy (check you skin barrier sensitivity report in the SkinNome package).</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs862942",
+                "rs7192",
+                "rs9275596",
+                "rs4584173"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "AllergyMilk",
+                "name": "Allergy to Milk",
+                "description": "<p>Milk allergy symptoms are different from lactose intolerance. Unlike a milk allergy, lactose intolerance does not involve the immune system. However, they have common digestive symptoms, such as bloating, gas or diarrhea, after consuming milk and dairy products. Symptoms for milk allergy can usually occur in a span of few minutes to a few hours after drinking milk or ingesting milk products. Immediately after consuming milk, signs and symptoms of a milk allergy might include: hives, wheezing, vomiting. More serious symptoms which may take longer &nbsp;to develop and include: loose stools (which may contain blood), diarrhea, abdominal cramps, coughing or wheezing, runny nose, watery eyes, itchy skin rash, often around the mouth, and colic, in babies. Approximately 2.5% of children younger than three years of age are allergic to milk, but over 80% of them do outgrow it. Genetic variations associated with milk allergy have recently been identified in a large study.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 75.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>You do not possess known genetic risks for milk allergy. Factors such as general health, immune system functioning, as well as other rare and yet unknown genetic and epigenetic mechanisms, have significant contributions too.&nbsp;</li>\r\n\t<li>Please check your lactose intolerance trait disposition in this section. These two allergies have different mechanisms within the body. If you only get affected by milk and not by other dairy products that contain lactose, you may have sensitivity to milk.</li>\r\n\t<li>&nbsp;If you are affected by some of the symptoms mentioned above after consuming milk products, consult with your allergist for a diagnostic test.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs1800872",
+                "rs1800896"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "AllergyEgg",
+                "name": "Allergy to Eggs",
+                "description": "<p>The body&rsquo;s immune system perceives the egg protein as a foreign invader and initiates an &ldquo;attack&rdquo; on it. This &ldquo;attack&rdquo;, in actuality, causes an allergic reaction. Allergy symptoms to egg usually occur within a few minutes or may take upto a few hours to manifest after ingesting foods containing eggs, or for some, after touching them. Symptoms vary from mild to severe; these include skin rashes, hives, nasal congestion, and vomiting or other digestive problems. Eggs are one of the most common allergy-causing foods in children. Experts estimate that as many as 2 percent of children are allergic to eggs. Fortunately, studies show that about 70 percent of these children do outgrow the condition by age 16. People who are allergic &nbsp;to chicken eggs may also be allergic to other types of eggs, such as goose, duck, turkey or quail. Similar to causes of other allergies, genetics is only part of the equation. Several genetic variations are associated with increased risk of egg allergy. Other factors such as general health, immune system functioning, as well as other rare and yet unknown genetic and epigenetic mechanisms, have significant contributions too. In this section, explore what your allergic predisposition level is to eggs and what precautions you must take after consulting your physician.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 70.0,
+            "assessment": 0,
+            "assessment_recommendation": "<ul>\r\n\t<li>While you do not seem to have known genetic risks for egg allergy, genetics is only part of the equation.</li>\r\n\t<li>If you experience skin inflammation, nasal congestion, runny nose, cramps, nausea, coughing, wheezing, chest tightness or shortness of breath after consuming egg products, please consult your doctor immediately!</li>\r\n\t<li>Most people with egg allergies react to the egg whites, not the yolk. If you suspect you have a reaction to egg, consider making an appointment with the doctor for diagnostic test.</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs16823014",
+                "rs7717393"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "DietGlutenSensitivity",
+                "name": "Gluten Sensitivity",
+                "description": "<p>Gluten is a protein found primarily in grains (wheat, rye, barley). Gluten sensitivity may affect up to 6% of the population. It is sometimes called non-celiac gluten sensitivity to distinguish it from celiac disease, which is an autoimmune condition. After eating foods containing gluten, people with gluten sensitivity can experience abdominal pain, diarrhea or constipation, and bloating. People sensitive to gluten can also experience other symptoms such as fatigue, headaches, and joint pain. According to a recent survey, more than 30% of Americans actively try to avoid eating gluten. However, it is unclear whether this is warranted. A recent study found that among 400 individuals who thought they were gluten intolerant, only 55 people (14.5%) actually had an issue with gluten. In some cases, people who eliminate gluten can potentially gain weight because gluten-free foods often have more calories than their gluten-containing counterparts.</p>\r\n\r\n<p>Symptoms of Gluten Sensitivity include:</p>\r\n\r\n<ul>\r\n\t<li>Digestive issues such as gas, bloating, diarrhea and even constipation.</li>\r\n\t<li>Fatigue, brain fog, or feeling tired after eating a meal that contains gluten. &nbsp;</li>\r\n\t<li>Migraine headaches</li>\r\n\t<li>Joint inflammation</li>\r\n\t<li>Anxiety, depression, mood swings, and even ADD (attention deficit disorder)</li>\r\n</ul>\r\n\r\n<p>The onset of any of these symptoms is not a sufficient reason to suspect gluten sensitivity or intolerance. Several genetic variations were found more frequently in people with gluten sensitivity.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 80.0,
+            "assessment": 1,
+            "assessment_recommendation": "<ul>\r\n\t<li>Even people with genetic predisposition to gluten sensitivity do&nbsp;not necessarily experience it as it may not become activated.&nbsp;</li>\r\n\t<li>If you are concerned, try an elimination diet, and consult your physician.&nbsp;</li>\r\n\t<li>Foods that are naturally gluten-free include: fruits, vegetables, meat and poultry, fish and seafood, dairy, beans, legumes and nuts, rice, corn, soy, and potatoes.</li>\r\n\t<li>Check out<a href=\"http://allrecipes.com/recipes/741/healthy-recipes/gluten-free/\"> gluten-free recipes</a>&nbsp;(third party, opens in new window).</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs2187668",
+                "rs2305764"
+            ],
+            "snps_inhibiting": []
+        },
+        {
+            "trait": {
+                "code": "DietLactoseIntolerance",
+                "name": "Lactose Intolerance",
+                "description": "<p>Begin lactose intolerant means that the body cannot easily digest lactose, a natural sugar found in milk and dairy products. Symptoms include diarrhea, nausea, abdominal cramps, bloating, and gas. For some people, these symptoms are very severe and their systems can not tolerate any form of lactose. For others, these symptoms are milder and manageable if they limit their intake of dairy products.</p>\r\n\r\n<p>Lactose intolerance symptoms generally appear after ingestion of food containing lactose. These include:</p>\r\n\r\n<ul>\r\n\t<li>Milk, milkshakes and other milk-based beverages</li>\r\n\t<li>Whipped cream and coffee creamer</li>\r\n\t<li>Ice cream, iced milk, and sherbet</li>\r\n\t<li>Cheese of all kinds, butter</li>\r\n\t<li>Puddings and custards</li>\r\n\t<li>Cream soups and cream sauces.</li>\r\n</ul>\r\n\r\n<p>Lactose intolerance is a consequence of a deficiency of a lactase enzyme. This deficiency may be genetic or acquired. Interestingly, up to 65% world&rsquo;s population have reduced ability to digest lactose. Two well known genetic variants for lactose intolerance have been found in people of European descent, and primarily from the North of Europe. Other ethnicities, including some Southern Europeans, are likely to have other genetic variants enabling them to digest lactose, and these have not yet been confirmed. So, if you are not of European descent, these results are not applicable to you.</p>",
+                "connotation": "risky"
+            },
+            "percentile": 55.0,
+            "assessment": 1,
+            "assessment_recommendation": "<ul>\r\n\t<li>A slightly higher genetic risk does not always manifest&nbsp;itself in lactose intolerance.&nbsp;You may not experience any adverse reactions after consuming dairy products.</li>\r\n\t<li>If you experience an adverse reaction after consiming lactose, lower your intake of lactose-rich food to check if your symptoms subside.</li>\r\n\t<li>There are many alternatives to dairy products including lactose free milk, non-dairy creamers, rice milk drinks and soymilk.</li>\r\n\t<li>Check if you have genetic variations associated with milk allergy.&nbsp;</li>\r\n\t<li>Always consult with a physician before making major changes to your diet.&nbsp;</li>\r\n</ul>",
+            "snps_contributing": [
+                "rs4988235",
+                "rs182549"
+            ],
+            "snps_inhibiting": []
+        }
+    ]
+}
