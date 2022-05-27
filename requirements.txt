@@ -1,0 +1,4 @@
+python-telegram-bot
+sentence-transformers
+psycopg2
+bs4
