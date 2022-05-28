@@ -1,4 +1,6 @@
-TELEGRAM_TOKEN = "5293027352:AAHhEVE1KyrrYLowevYYRC4X_IXQCnT6nrw"
-WEBHOOK_URL = "https://559b-46-172-18-253.ngrok.io"
+WEBHOOK_URL = "108.175.2.100"
+WEBHOOK_LISTEN = "0.0.0.0"
+WEBHOOK_PORT = "8443"
 
-PATH_TO_UPLOADS = "uploads"
+CERT_PATH = "telegram.pem"
+KEY_PATH = "telegram.key"
