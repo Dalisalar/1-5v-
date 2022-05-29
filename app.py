@@ -1,4 +1,3 @@
-import os
 import json
 
 from scripts.util import *
@@ -21,10 +20,10 @@ from telegram.ext import (
     CallbackQueryHandler
 )
 
-from sentence_transformers import SentenceTransformer
-from bs4 import BeautifulSoup
-import psycopg2 as pcg
 
+# from sentence_transformers import SentenceTransformer
+# from bs4 import BeautifulSoup
+# import psycopg2 as pcg
 
 def get_trait_by_id(cursor, id):
     pass
@@ -73,6 +72,7 @@ def process_document(update: Update, context: CallbackContext):
     #   bot.send_message("You are already logged in")
     #   return None
     
+    raise ValueError
     document = update.message.document
     file_bytearray = context.bot.get_file(document).download_as_bytearray()
 
@@ -95,6 +95,8 @@ def search(update: Update, context: CallbackContext):
     update.message.reply_text(
         "Find articles in this advisories", reply_markup=keyboard)
 
+def error_hanlder(update: Update, context: CallbackContext):
+    context.bot.send_message(chat_id=DEVELOPER_CHAT_ID, text=f"Error was raised while handling update {json.dumps(update.to_dict(   ), indent=4)} {context.error}")
 
 # print("Connecting to database...", end="", flush=True)
 # conn = pcg.connect(
@@ -130,7 +132,15 @@ dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, search))
 dispatcher.add_handler(MessageHandler(Filters.document, process_document))
 dispatcher.add_handler(CallbackQueryHandler(callback))
 
-# print("Starting webhook..")
-# updater.start_webhook(webhook_url=WEBHOOK_URL)
+dispatcher.add_error_handler(error_hanlder)
 
-updater.start_polling()
+updater.start_webhook(
+    listen=WEBHOOK_LISTEN,
+    port=WEBHOOK_PORT,
+    url_path=TELEGRAM_TOKEN,
+    webhook_url=f"https://{WEBHOOK_URL}:{WEBHOOK_PORT}/{TELEGRAM_TOKEN}",
+    cert=CERT_PATH,
+    key=KEY_PATH
+)
+
+# updater.start_polling()
